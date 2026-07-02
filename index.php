@@ -1,6 +1,6 @@
 <?php
-    echo"mut"
-    echo"13"
-    echo"aaa"
+    echo"mut";
+    echo"13";
+    echo"aaa";
     ?>
     
